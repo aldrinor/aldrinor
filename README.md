@@ -1,7 +1,5 @@
 <img src="assets/banner.png" width="100%" alt="Discovery, Manufacturing, Standards, Market, with AI">
 
-<img src="assets/photo.jpg" width="120" align="right" alt="Photo of Aldrin Or">
-
 # Aldrin Or
 
 I co-founded C-POLAR, the health science company behind patented NanoFlashing™ technology, and I am a co-inventor of the technology. I also co-founded Deep Cove Research, as Chief Architect.
@@ -47,12 +45,9 @@ I co-founded C-POLAR, the health science company behind patented NanoFlashing™
 
 ## Selected work
 
-- Ranked #4 of 16 on the official DeepResearch Bench leaderboard (GPT-5.5 judge), with a score of 55.29 (10 October 2026). DeepResearch Bench (ICLR 2026) has 100 PhD-level research tasks, written by experts in 22 fields, in Chinese and English.
-- Up to 93% lower cost than frontier deep research agents, at about US$1.04 per report at public API prices. [See all 100 reports](https://github.com/aldrinor/deep-cove-research).
-- Co-inventor of NanoFlashing™ on granted patents in the US (US 12,678,542 B2, 2026) and Taiwan (TW I882291 B, 2025), with two further US applications pending and the patent family filed in Europe, China, Japan, Canada and Australia. For one pending application, I drafted all 17 claims and the figures.
 - Took NanoFlashing™ from the lab into production with manufacturing partners, including two synthetic filter media and a water-filtration medium scaled from a 100 kg batch to two 200 kg factory batches. A partner-made pocket filter was rated MERV 15A under ASHRAE 52.2, and pocket and pleated filters met ULC-S111 Class 2.
 - Designed and directed Project Crucible, a GPU molecular-simulation screen to accelerate materials development. In about three months, for about US$350, it screened 587 candidate bonding conditions on seven medical-device surfaces down to a shortlist of 16, cutting the candidates for lab testing by 97%. C-POLAR has since used the shortlist in product development.
-- [Effect of multifunctional cationic polymer coatings on mitigation of broad microbial pathogens](https://doi.org/10.1128/spectrum.04097-23). Microbiology Spectrum (American Society for Microbiology), 3 September 2024.
+- Up to 93% lower cost than frontier deep research agents, at about US$1.04 per report at public API prices. [See all 100 reports](https://github.com/aldrinor/deep-cove-research).
 
 ## Previously
 
