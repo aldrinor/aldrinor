@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header_dark_5707d0e.svg">
-  <img src="assets/header_light_5707d0e.svg" width="100%" alt="Aldrin Or. Co-founder of C-POLAR / NanoFlashing / Deep Cove Research">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header_dark_23f194c.svg">
+  <img src="assets/header_light_23f194c.svg" width="100%" alt="Aldrin Or. Co-founder of C-POLAR / NanoFlashing / Deep Cove Research">
 </picture>
 
 [deepcove.tech](https://deepcove.tech) · [cpolar.tech](https://cpolar.tech) · [LinkedIn](https://www.linkedin.com/in/aldrinor/)
